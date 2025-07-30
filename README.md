@@ -50,5 +50,5 @@ A modern web application built with [Next.js](https://nextjs.org/), TypeScript, 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/my-next-app.git
+git clone https://github.com/akashnegi62/intership-assesment.git
 cd my-next-app
